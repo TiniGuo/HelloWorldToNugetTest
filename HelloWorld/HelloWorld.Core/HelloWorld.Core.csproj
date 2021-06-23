@@ -14,4 +14,8 @@
 		<PackageIconUrl></PackageIconUrl>
 	</PropertyGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\HelloWorld.Message\HelloWorld.Message.csproj" />
+	</ItemGroup>
+
 </Project>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloWorld.Core
+namespace NetStandardTest
 {
     public class Class1
     {
