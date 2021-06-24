@@ -5,5 +5,6 @@ namespace HelloWorld.Share
     {
         public string DisplayName { get; set; }
         public string Say { get; set; }
+        public int Age { get; set; }
     }
 }
