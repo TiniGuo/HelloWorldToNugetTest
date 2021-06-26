@@ -1,4 +1,6 @@
 ﻿
+using System;
+
 namespace HelloWorld.Share
 {
     public class UserDto
@@ -9,5 +11,6 @@ namespace HelloWorld.Share
         public string Id { get; set; }
         public string AvarUrl { get; set; }
         public string Name { get; set; }
+        public DateTime CreatedTime { get; set; }
     }
 }
