@@ -8,5 +8,6 @@ namespace HelloWorld.Share
         public int Age { get; set; }
         public string Id { get; set; }
         public string AvarUrl { get; set; }
+        public string Name { get; set; }
     }
 }
