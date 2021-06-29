@@ -7,7 +7,7 @@ namespace HelloWorld.Core
         public string SayHello()
         {
             var response = new SayHelloResponse();
-            return "hello world";
+            return "hello world,hello nuget";
         }
     }
 }
