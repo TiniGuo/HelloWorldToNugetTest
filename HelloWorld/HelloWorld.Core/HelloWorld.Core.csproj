@@ -5,8 +5,8 @@
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 		<Authors>HelloWorld.Core</Authors>
 		<PackageId>HelloWorld.Core</PackageId>
-		<Version>1.0.4</Version>
-		<Description>It was used to test</Description>
+		<Version>1.0.5</Version>
+		<Description>It was used to test again</Description>
 		<Company>HelloWorld.Core</Company>
 		<Product>HelloWorld.Core</Product>
 		<RepositoryUrl>https://github.com/TiniGuo/HelloWorldToNugetTest.git</RepositoryUrl>
