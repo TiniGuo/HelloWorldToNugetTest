@@ -5,14 +5,13 @@
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 		<Authors>HelloWorld.Core</Authors>
 		<PackageId>HelloWorld.Core</PackageId>
-		<Version>1.0.5</Version>
-		<Description>It was used to test again</Description>
+		<Version>1.0.6</Version>
+		<Description>It was used to test again ...</Description>
 		<Company>HelloWorld.Core</Company>
 		<Product>HelloWorld.Core</Product>
 		<RepositoryUrl>https://github.com/TiniGuo/HelloWorldToNugetTest.git</RepositoryUrl>
 		<PackageProjectUrl>https://github.com/TiniGuo/HelloWorldToNugetTest</PackageProjectUrl>
-		<RepositoryType>git</RepositoryType>
-<!--		<GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>-->
+		<RepositoryType>git</RepositoryType>	
 		
 	</PropertyGroup>
 
